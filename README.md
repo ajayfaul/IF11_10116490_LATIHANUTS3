@@ -4,5 +4,5 @@ Program Java Gui tidak menggunakan konsep objek
   - Muhammad Fajar Maulana
   - Nim : 10116490
   - Kelas : PBO11
-# Build with
- * [NetBeansIDE](ttps://netbeans.org/ "NetBeansIDE")
+# Build with :
+ * [NetBeansIDE](https://netbeans.org/ "NetBeansIDE")
